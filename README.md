@@ -88,7 +88,7 @@ Interactive quiz application with persistent score tracking using layered archit
 ---
 
 <p align="center">
-  <i>💡 Open to collaboration on AI, Frontend Programming, game dev and cybersecurity projects!</i>
+  <i>💡 Open to collaboration on AI, software development, game dev and cybersecurity projects!</i>
 </p>
 
 <p align="center">
