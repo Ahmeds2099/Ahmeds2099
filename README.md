@@ -76,13 +76,9 @@ Interactive quiz application with persistent score tracking using layered archit
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmeds2099&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Ahmeds2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeds2099&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeds2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
