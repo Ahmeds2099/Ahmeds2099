@@ -9,8 +9,8 @@ I build projects that solve real problems—from gesture-controlled interfaces t
 ## 🚀 What I'm Working On
 
 - 💻 Building full-stack applications with **Python**, **Java**, and **JavaScript**
-- 🤖 Exploring **computer vision** and **AI-powered automation**
-- 🔒 Learning **cybersecurity** fundamentals through hands-on projects
+- 🤖 Learning **computer vision** and **AI-powered automation**
+- 🔒 Exploring **cybersecurity** fundamentals through hands-on projects
 - 🎮 Experimenting with **game development** using Godot Engine
 
 ---
